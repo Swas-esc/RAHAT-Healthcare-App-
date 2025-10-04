@@ -1,0 +1,57 @@
+{
+    "fever": {
+        "conditions": ["common cold", "Malaria", "Typhoid", "Dengue"],
+        "severity": "moderate",
+        "causes": ["Infection", "Virus", "Dehydration"],
+        "first_aid": [
+            "Drink plenty of fluids",
+            "Take rest",
+            "Use a cold compress on forehead",
+            "Take paracetamol if temperature is high"
+        ]
+    },
+    "cough": {
+        "conditions": ["common cold", "Bronchitis", "Asthma", "Tuberculosis"],
+        "severity": "mild",
+        "causes": ["Irritation in throat", "Infection", "Allergy"],
+        "first_aid": [
+            "Drink warm water with honey",
+            "Avoid dust and smoke",
+            "Take steam inhalation",
+            "If cough lasts more than 7 days, visit a doctor"
+        ]
+    },
+    "headache": {
+        "conditions": ["Migraine", "Dehydration", "Eye strain", "Tension Headache"],
+        "severity": "mild",
+        "causes": ["Stress", "Lack of help", "Hunger", "Eye problems"],
+        "first_aid": [
+            "Rest in quiet, dark room",
+            "Drink water",
+            "Massage temples gently",
+            "Avoid phone/computer screens for a while"
+        ]
+    },
+    "stomach pain": {
+        "conditions": ["Gastritis", "Ulcer", "Food Poisoning", "Appendicitis"],
+        "severity": "moderate",
+        "causes": ["Spicy food", "Infection", "Improper digestion"],
+        "first_aid": [
+            "Avoid oily or spicy food",
+            "Drink warm water",
+            "Take antacid if needed",
+            "If pain increases or has vomiting. see a doctor"
+        ]
+    },
+    "skin rash": {
+        "conditions": ["Allergy", "Eczema", "Heat Rash", "Fungal Infection"],
+        "severity": "mild",
+        "causes": ["Allergic reaction", "Heat", "Sweat", "Infection"],
+        "first_aid": [
+        "Keep affected area clean and dry",
+        "Apply soothing lotion or aloe vera",
+        "Avoid scratching",
+        "If rash spreads, consult a doctor"
+    ]
+  }
+}
